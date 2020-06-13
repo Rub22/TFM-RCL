@@ -1,4 +1,4 @@
-En este proyecto se han subido diferentes partes del código utilizado para la realización del trabajo fin de máster. Se han subido por separado las partes en las que se simula el comportamiento del agente, y las partes en las que se calcula el la capacidad calorífica. Se sube el código de:
+En este proyecto se han subido diferentes partes del código utilizado para la realización del trabajo fin de máster. Se han subido por separado las partes en las que se simula el comportamiento del agente, y las partes en las que se calcula la capacidad calorífica. Se sube el código de:
 
 - El Mountain Car Original
 - El Mountain Car en un entorno continuo
