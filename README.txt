@@ -14,3 +14,5 @@ Adicionalmente, se suben vídeos de algunos de los comportamientos que se han si
 - Walker avanzando con la pierna delantera bloqueada
 - Walker avanzando con las dos piernas móviles
 - Walker levantándose
+
+En este proyecto se ha tomado como referencia un artículo publicado en la revista Scientific Reports, cuyo código y parte de los resultados obtenidos se pueden consultar en el siguiente repositorio: https://github.com/MiguelAguilera/Adaptation-to-criticality-through-organizational-invariance
